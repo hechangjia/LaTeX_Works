@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{折腾的一学期}{3}{0}{1}
+\beamer@sectionintoc {2}{收获的一学期}{7}{0}{2}
+\beamer@sectionintoc {3}{遗憾的一学期}{12}{0}{3}
+\beamer@sectionintoc {4}{对下学期的展望}{18}{0}{4}
+\beamer@sectionintoc {5}{综上所述}{22}{0}{5}
